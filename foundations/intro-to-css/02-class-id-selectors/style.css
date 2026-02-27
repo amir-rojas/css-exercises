@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.impar {
+    background-color: #e69f9f;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second-element{
+    color: #1c0ae2;
+    font-size: 36px;
+}
+
+#third-element {
+    font-size: 24px;
+}
+
+#fourth-element{
+    background-color: #6bc077;
+    font-size: 24px;
+    font-weight: bold;
+}
